@@ -1,1 +1,1 @@
-# CP_Practice_Platform
+# Coding Blocks Platform 
